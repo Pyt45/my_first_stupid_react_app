@@ -9,7 +9,7 @@
 ## General info
 This project is a simple front-end React app as shown below.
 ## Screenshot
-![Screenshot] (Screen Shot 2021-01-31 at 4.18.45 PM.png)
+<img src="https://github.com/Pyt45/react-app-test/blob/master/Screen%20Shot%202021-01-31%20at%204.18.45%20PM.png" width="800" />
 
 ## Technologies
 Project is created with:
