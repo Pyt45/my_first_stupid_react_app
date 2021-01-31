@@ -23,6 +23,6 @@ to run this app just type:
 * npm start
 
 ## Resources
-[Reactjs Docs](https://reactjs.org/docs/getting-started.html)
-[Css Tutorial](https://www.w3schools.com/Css/default.asp)
-[Figma to design your app](https://www.figma.com/)
+* [Reactjs Docs](https://reactjs.org/docs/getting-started.html)
+* [Css Tutorial](https://www.w3schools.com/Css/default.asp)
+* [Figma to design your app](https://www.figma.com/)
