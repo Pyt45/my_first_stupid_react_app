@@ -1,4 +1,4 @@
 .DS_Store
 .vs_code
 ./client/node_modules/
-.gitginore
+.gitignore
